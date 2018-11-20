@@ -1,0 +1,7 @@
+{
+ "name":"sentence splitter",
+ "interpreter":"Rscript",
+ "executable":"sspl.R",
+ "args":"",
+ "options":{}
+}
